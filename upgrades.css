@@ -23,12 +23,6 @@ body{
 	font-size: 20px;
 }
 
-.navabar-text{
-	position: center;
-	margin:0 auto;
-	color: rgba(211,0,0,0.4);
-}
-
 input[type="text"] {
 height: 300px;
 width: 330px;
