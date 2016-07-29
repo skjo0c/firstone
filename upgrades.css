@@ -1,0 +1,31 @@
+body{
+	background-image: url("images/bg.jpg");
+}
+
+.navbar-dangerous{
+	background-color: rgba(1,1,1,0.3);
+	height: 80px;
+}
+
+.navbar-brand
+{
+	color: rgba(255,0,0,0.9);
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+
+.headings{
+	position: absolute;
+	top: 30px;
+	font-size: 20px;
+}
+
+
+
+input[type="text"] {
+height: 300px;
+width: 330px;
+}
